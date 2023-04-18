@@ -1,0 +1,9 @@
+{
+    "require": {
+        "php-webdriver/webdriver": "^1.14"
+    },
+    "require-dev": {
+        "facebook/webdriver": "*",
+        "phpunit/phpunit": "^9.6"
+    }
+}
